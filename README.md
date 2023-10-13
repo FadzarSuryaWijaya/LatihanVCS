@@ -33,8 +33,7 @@ direktory aktif menjadi: c:\bahasa_pemrograman\praktikum1</li>
 <li>Login akun Github untuk pertama kali</li>
 <li>Login berhasil dan file telah berhasil diupload ke Github</li>
 <li>Jika tidak bisa pastikan untuk Commit file yang ingin diupload</li>
-<li>Pastikan remote Gitbash terlebih dahulu menggunakan
-<ol type="1"><li>$ git remote add origin [URL]</li></ol></li>
+<li>Pastikan remote dan buat branch Git terlebih dahulu menggunakan
+<ol type="1"><li>$ git remote add origin [URL]</li>
+<li>$ git -m branch main</li></ol></li>
 <li>Jika belum bisa pastikan konfigurasi Config Global Repo sama dengan Akun Github </li></ul>
-
-mmm
