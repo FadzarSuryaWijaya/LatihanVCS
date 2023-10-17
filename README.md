@@ -29,7 +29,9 @@ direktory aktif menjadi: c:\bahasa_pemrograman\praktikum1</li>
 <li>File README.md berhasil ditambahkan ke repolokal</li></ul>
 
 # Push file README.md ke repository Github
-<ul><ol type=1><li>$ git commit -m "first commit"</li><li>$ git push -u origin main</li></ol>
+<ul><li>git add (nama file)</li>
+  <li>commit file lalu push menggunakan: </li>
+<ol type=1><li>$ git commit -m "first commit"</li><li>$ git push -u origin main</li></ol>
 <li>Login akun Github untuk pertama kali</li>
 <li>Login berhasil dan file telah berhasil diupload ke Github</li>
 <li>Jika tidak bisa pastikan untuk Commit file yang ingin diupload</li>
