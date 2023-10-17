@@ -20,7 +20,7 @@ jika kalian tidak konfigurasi terlebih dahulu maka akan terjadi error saat menja
 <ul><li>Buka direktory aktif, misal: c:/bahasa_pemrograman (buka menggunakan Windows Explorer)</li>
 <li>buka lalu klik kanan pada direktory aktif tersebut, dan pilih menu Git Bash, sehingga muncul git bash command</li>
 <li>Buat direktory project praktikum pertama dengan nama praktikum1</li>
-<li>$ mkdir latihan1 $ cd latihan1</li>
+<li>$ mkdir praktikum1 $ cd praktikum1</li>
 <li>Sehingga terbentuk satu direktori baru dibawahnya, selanjutnya masuk kedalam direktori tersebut dengan perintah cd (change directory)</li>
 direktory aktif menjadi: c:\bahasa_pemrograman\praktikum1</li>
 <li>repolokal File README.md berhasil dibuat.</li>
@@ -29,7 +29,7 @@ direktory aktif menjadi: c:\bahasa_pemrograman\praktikum1</li>
 <li>File README.md berhasil ditambahkan ke repolokal</li></ul>
 
 # Push file README.md ke repository Github
-<ul><li>$ git push -u origin main</li>
+<ul><ol type=1><li>$ git commit -m "first commit"</li><li>$ git push -u origin main</li></ol>
 <li>Login akun Github untuk pertama kali</li>
 <li>Login berhasil dan file telah berhasil diupload ke Github</li>
 <li>Jika tidak bisa pastikan untuk Commit file yang ingin diupload</li>
